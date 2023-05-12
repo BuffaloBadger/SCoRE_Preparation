@@ -1,0 +1,3 @@
+Repository for content used in SCoRE class preparation videos.
+
+SCoRE (Self-study Course on Reaction Engineering) will have preparation assignments for each class. Those assignments will be to read sections of *Reaction Engineering Basics* and/or to watch SCoRE videos that summarize the information and examples in those section of *Reaction Engineering Basics*. In this project, the information and examples from *Reaction Engineering Basics* are used to make slideshows that are used in the videos.
